@@ -1,0 +1,7 @@
+C:\Users\00erirun\Documents\CLO22Dev\ERCloudAppTest\bin\Debug\net6.0\publish\ERCloudAppTest.exe
+C:\Users\00erirun\Documents\CLO22Dev\ERCloudAppTest\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\00erirun\Documents\CLO22Dev\ERCloudAppTest\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\00erirun\Documents\CLO22Dev\ERCloudAppTest\bin\Debug\net6.0\publish\ERCloudAppTest.dll
+C:\Users\00erirun\Documents\CLO22Dev\ERCloudAppTest\bin\Debug\net6.0\publish\ERCloudAppTest.deps.json
+C:\Users\00erirun\Documents\CLO22Dev\ERCloudAppTest\bin\Debug\net6.0\publish\ERCloudAppTest.runtimeconfig.json
+C:\Users\00erirun\Documents\CLO22Dev\ERCloudAppTest\bin\Debug\net6.0\publish\ERCloudAppTest.pdb
